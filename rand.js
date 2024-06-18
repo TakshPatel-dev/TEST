@@ -1,6 +1,6 @@
 var VUE = ""
  VUE += `<button class="btn btn-moving-gradient btn-moving-gradient--pink" id="button"> Roll A Number </button>
-    <br>
-    <h2 id="Num">klklsdfdsfsd</h2>`
+    <br>sdfsdf
+    <h2 id="Num">klklsdfdsdfsdfsdfsfsd</h2>`
 console.log(VUE)
 document.body.innerHTML = VUE
